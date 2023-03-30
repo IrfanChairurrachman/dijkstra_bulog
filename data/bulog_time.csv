@@ -1,0 +1,17 @@
+titik1,titik2,waktu
+Bekasi,Karawang,41
+Bekasi,Bogor,107
+Karawang,Bogor,100
+Karawang,Purwakarta,13
+Karawang,Cianjur,179
+Bogor,Purwakarta,168
+Bogor,Cianjur,160
+Bogor,Citeureup,222
+Bogor,Bandung,228
+Purwakarta,Cianjur,146
+Purwakarta,Citeureup,72
+Cianjur,Citeureup,127
+Cianjur,Bandung,131
+Cianjur,Sukabumi,70
+Citeureup,Bandung,33
+Bandung,Sukabumi,184

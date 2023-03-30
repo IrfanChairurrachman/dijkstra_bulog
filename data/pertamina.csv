@@ -1,0 +1,11 @@
+titik1,titik2,jarak,waktu
+Tanjung Priok,Spbu_AM,16.7,31
+Tanjung Priok,Spbu_Matraman,15.9,26
+Spbu_AM,Spbu_Cikini,4.3,17
+Spbu_AM,Spbu_Senen,3.8,11
+Spbu_AM,Spbu_Menteng,3.4,12
+Spbu_Matraman,Spbu_Cikini,3.2,10
+Spbu_Matraman,Spbu_Senen,2.5,7
+Spbu_Senen,Spbu_Menteng,4.8,12
+Spbu_Senen,Spbu_Cikini,2,9
+Spbu_Menteng,Spbu_Matraman,6.8,16
